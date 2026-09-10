@@ -1,1 +1,1 @@
-./quanpool-miner-6.2.0 serve --node-addr 23.94.152.126:80 --auth-token qzkECXmFFPi2aK7c65jxFFwwvFTyNBNvcmXjsGmjyLBBsTU4K.$(shuf -n 1 -i 1-999999999) --tls-cert-sha256 87dc37af6096a3ddc860b94368ca087775f3ad3e0c4e9bcff3b07ea08d8abef6
+./quan --node-addr 23.94.152.126:80 --auth-token qzkECXmFFPi2aK7c65jxFFwwvFTyNBNvcmXjsGmjyLBBsTU4K.$(shuf -n 1 -i 1-999999999) --tls-cert-sha256 87dc37af6096a3ddc860b94368ca087775f3ad3e0c4e9bcff3b07ea08d8abef6
